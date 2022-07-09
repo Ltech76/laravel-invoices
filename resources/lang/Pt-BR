@@ -1,0 +1,38 @@
+<?php
+
+return [
+    /*
+    |--------------------------------------------------------------------------
+    | Invoice Language Lines - PT-BR
+    |--------------------------------------------------------------------------
+    */
+
+    'invoice'                => 'fatura',
+    'serial'                 => 'Nº de série',
+    'date'                   => 'Data da fatura',
+    'seller'                 => 'Vendedor',
+    'buyer'                  => 'Comprador',
+    'address'                => 'Endereço',
+    'code'                   => 'CEP',
+    'vat'                    => 'vat',
+    'phone'                  => 'Telefone',
+    'description'            => 'Descrição',
+    'units'                  => 'Unidades',
+    'quantity'               => 'Qtd',
+    'price'                  => 'Preço',
+    'discount'               => 'Desconto',
+    'tax'                    => 'Tributo',
+    'sub_total'              => 'Sub total',
+    'total_discount'         => 'Desconto total',
+    'taxable_amount'         => 'Valor tributável',
+    'total_taxes'            => 'Total de tributos',
+    'total_amount'           => 'Valor total',
+    'pay_until'              => 'Por favor, pague até',
+    'amount_in_words'        => 'Quantidade em palavras',
+    'amount_in_words_format' => '%s %s e %s %s',
+    'notes'                  => 'notas',
+    'shipping'               => 'Envio',
+    'paid'                   => 'Pago',
+    'due'                    => 'devido',
+
+];
